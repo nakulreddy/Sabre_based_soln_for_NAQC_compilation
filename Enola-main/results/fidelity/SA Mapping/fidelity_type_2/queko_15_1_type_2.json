@@ -1,0 +1,29 @@
+{
+  "cir_fidelity": 0.6970926974540285,
+  "cir_fidelity_1q_gate": 1,
+  "cir_fidelity_2q_gate": 0.8348931673187262,
+  "cir_fidelity_2q_gate_for_idle": 0.8350819830107529,
+  "cir_fidelity_atom_transfer": 1.0,
+  "cir_fidelity_coherence": 0.9998400119994407,
+  "num_movement_stage": 0,
+  "movement_time_ratio": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "average_movement": 0,
+  "list_movement_duration": []
+}
